@@ -1,3 +1,5 @@
+![cockroach](https://github.com/user-attachments/assets/8195ec4a-fcf2-4be0-9792-9ce23aeb8600)
+
 demo3d
 ======
 - **What is it?**
